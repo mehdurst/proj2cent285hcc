@@ -1,0 +1,8 @@
+# config/database.yml
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sampledb
+  pool: 5
+  username: cent285fall12
+  password: cent_285@fall12
